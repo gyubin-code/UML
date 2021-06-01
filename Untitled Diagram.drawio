@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T11:02:43.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FU7WRCCncHk_tHZEBDvs" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T11:03:15.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="f_t7Hh8wZkOxPvwM_je6" version="14.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,18 +180,6 @@
         </mxCell>
         <mxCell id="0rtbkH3wDljrIdaR5obe-65" value="«Exception»&lt;br&gt;&lt;b&gt;ThreeSidesInequalityException&lt;/b&gt;" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="980" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0rtbkH3wDljrIdaR5obe-68" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="650" y="410" as="sourcePoint" />
-            <mxPoint x="730" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0rtbkH3wDljrIdaR5obe-70" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="650" y="410" as="sourcePoint" />
-            <mxPoint x="730" y="410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0rtbkH3wDljrIdaR5obe-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0rtbkH3wDljrIdaR5obe-13" target="0rtbkH3wDljrIdaR5obe-37">
           <mxGeometry relative="1" as="geometry" />
